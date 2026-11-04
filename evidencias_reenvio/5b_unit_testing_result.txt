@@ -1,0 +1,18 @@
++ pwd
+/home/project/oaqjp-final-project-emb-ai
++ python3 test_emotion_detection.py -v
+test_anger (__main__.TestEmotionDetection)
+Verify that an angry statement returns anger. ... ok
+test_disgust (__main__.TestEmotionDetection)
+Verify that a disgusted statement returns disgust. ... ok
+test_fear (__main__.TestEmotionDetection)
+Verify that a fearful statement returns fear. ... ok
+test_joy (__main__.TestEmotionDetection)
+Verify that a happy statement returns joy. ... ok
+test_sadness (__main__.TestEmotionDetection)
+Verify that a sad statement returns sadness. ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.542s
+
+OK
