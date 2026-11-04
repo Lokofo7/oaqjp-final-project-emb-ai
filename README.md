@@ -1,5 +1,4 @@
-# Repository for final project
+# Final Project
 
-# final_project
 
-Emotion Detection Application using Watson NLPgit add README.md
+Emotion Detection Application using Watson NLP
